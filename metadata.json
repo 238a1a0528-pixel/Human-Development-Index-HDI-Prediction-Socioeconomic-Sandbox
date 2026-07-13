@@ -1,0 +1,6 @@
+{
+  "name": "HDI Prediction and Visualization System",
+  "description": "An interactive playground for HDI indicator inputs, machine learning model comparisons, dynamic predictions, real-time analytics reports powered by Gemini AI, and a database ER diagram explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
